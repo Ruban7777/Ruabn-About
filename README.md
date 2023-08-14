@@ -1,10 +1,10 @@
-# Rubn7777
+# Ruban7777
 <h1 align="center">Hi 👋, I'm Ruban</h1>
 <h3 align="center">A passionate developer|frontend developer|Python programmer</h3>
 
 - 📫 How to reach me **paisruban@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/ruban-christan-pais-3b98a3205</h3>
 <p align="left">
 </p>
 
